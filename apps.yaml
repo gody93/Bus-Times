@@ -1,0 +1,5 @@
+sofia_traffic_sensor:
+  module: get_schedules
+  class: SofiaTrafficSensor
+  stop_id: "1287"
+  sensor_name: "sensor.bus_stop_info"
